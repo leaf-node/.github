@@ -1,9 +1,5 @@
-## leaf-node
+## leaf-node moving to Codeberg
 
-👋 Welcome! I develop libre, open source web, mobile and desktop apps with
-expressive code, intuitive UX, and responsive design. Show your support by
-giving me a star 🌟 on GitHub, or by sharing with friends.
-
-If you have any questions or comments, feel free to reach me at
-<mailto:andrew@sourceflow.dev>.
-
+I've migrated my main repositories to the
+[leaf-node user at Codeberg.org](https://codeberg.org/leaf-node/). More repos
+will be moved over in time.
